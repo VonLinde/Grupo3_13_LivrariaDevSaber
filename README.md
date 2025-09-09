@@ -62,3 +62,23 @@ Nosso objetivo foi construir um **pipeline de dados no BigQuery** para organizar
 - Uso de **chaves (IDs)** para permitir integrações entre tabelas.  
 - Criação de **VIEWs** para facilitar consultas futuras sem reescrever SQL.  
 - Organização dos scripts em ordem de execução: `CREATE → INSERT → ANALYSIS`.  
+
+---
+
+## :loudspeaker: Nota de Transparência
+
+Este conteúdo foi revisado e complementado com o auxílio de ferramentas de inteligência artificial, incluindo *Microsoft Copilot, ChatGPT e Gemini*, com supervisão humana.
+
+### Tipo de assistência da IA
+-  *Criação:* apoio em exemplos de consultas SQL e estrutura do README.  
+-  *Revisão:* correções de clareza e ajustes de formatação.  
+- *Adaptação:* sugestões para melhorar a organização e apresentação.  
+-  *Complementação:* inclusão de explicações extras para facilitar o entendimento.  
+
+### Ferramentas utilizadas
+- Google BigQuery  
+- GitHub  
+- ChatGPT / Copilot / Gemini  
+
+### Responsabilidade
+A responsabilidade final pelo conteúdo é do grupo *3_13*, garantindo veracidade, adequação e alinhamento com os objetivos acadêmicos.
